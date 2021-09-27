@@ -1,0 +1,22 @@
+﻿<Window x:Class="AplicatieCamin.Views.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AplicatieCamin.Views"
+        mc:Ignorable="d"
+        Title="Home" Height="500" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid Background="LightSkyBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".5*"></RowDefinition>
+            <RowDefinition Height="*" ></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Content="Camin UNITBV" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="40" Foreground="White" FontWeight="Bold"></Label>
+        <Button Grid.Row="1" x:Name="StudentsBtn" Click="StudentsBtn_Click"  Margin="150,25,150,25" Content="Studenti" FontSize="20" Background="Black" Foreground="White"></Button>
+        <Button Grid.Row="2" x:Name="CamineBtn" Click="CamineBtn_Click"  Margin="150,25,150,25" Content="Camine" FontSize="20" Background="Black" Foreground="White"></Button>
+        <Button Grid.Row="3" x:Name="MainBtn" Click="MainBtn_Click"  Margin="150,25,150,25" Content="Iesire" FontSize="20" Background="Black" Foreground="White"></Button>
+
+    </Grid>
+</Window>

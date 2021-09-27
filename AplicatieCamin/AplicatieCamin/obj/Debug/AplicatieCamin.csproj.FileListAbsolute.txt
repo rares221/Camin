@@ -1,0 +1,219 @@
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\AplicatieCamin.exe.config
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\AplicatieCamin.exe
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\AplicatieCamin.pdb
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\Dapper.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\Dapper.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaCamin.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareCamera.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareStudent.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaStudentLaCamera.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camere.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camine.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\MainWindow.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Home.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamera.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamin.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaStudent.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Studenti.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\StudentiiUneiCamere.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\TaxeStudent.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\App.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin_MarkupCompile.cache
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin_MarkupCompile.lref
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaCamin.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareCamera.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareStudent.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaStudentLaCamera.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camere.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camine.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\MainWindow.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Home.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamera.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamin.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaStudent.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Studenti.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\StudentiiUneiCamere.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\Views\TaxeStudent.baml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.g.resources
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.Properties.Resources.resources
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csproj.GenerateResource.cache
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csproj.CopyComplete
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.exe
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.pdb
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csproj.AssemblyReference.cache
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.Core.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.barcodes.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.forms.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.io.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.kernel.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.layout.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.pdfa.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.sign.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.styledxmlparser.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.svg.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itextsharp.dll
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.pdb
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.Core.pdb
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.Core.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.barcodes.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.forms.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.io.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.kernel.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.layout.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.pdfa.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.sign.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.styledxmlparser.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itext.svg.xml
+C:\Users\dani_\Desktop\AplicatieCamin\AplicatieCamin\bin\Debug\itextsharp.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\AplicatieCamin.exe.config
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\AplicatieCamin.exe
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\AplicatieCamin.pdb
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\BouncyCastle.Crypto.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.Core.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Dapper.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.barcodes.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.forms.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.io.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.kernel.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.layout.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.pdfa.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.sign.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.styledxmlparser.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.svg.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itextsharp.dll
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\BouncyCastle.Crypto.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.pdb
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.Core.pdb
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.Core.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Dapper.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.barcodes.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.forms.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.io.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.kernel.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.layout.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.pdfa.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.sign.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.styledxmlparser.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.svg.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itextsharp.xml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csprojAssemblyReference.cache
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaCamin.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareCamera.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareStudent.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaStudentLaCamera.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camere.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camine.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\MainWindow.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Home.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamera.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamin.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaStudent.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Studenti.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\StudentiiUneiCamere.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\TaxeStudent.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\App.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin_MarkupCompile.cache
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin_MarkupCompile.lref
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaCamin.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareCamera.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareStudent.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaStudentLaCamera.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camere.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camine.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\MainWindow.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Home.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamera.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamin.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaStudent.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Studenti.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\StudentiiUneiCamere.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\TaxeStudent.baml
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.g.resources
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.Properties.Resources.resources
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csproj.GenerateResource.cache
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csproj.CoreCompileInputs.cache
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csproj.CopyComplete
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.exe
+E:\Facultate\mvp restanta ultima doamne ajuta\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.pdb
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\AplicatieCamin.exe.config
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\AplicatieCamin.exe
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\AplicatieCamin.pdb
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\BouncyCastle.Crypto.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.Core.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Dapper.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.barcodes.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.forms.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.io.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.kernel.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.layout.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.pdfa.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.sign.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.styledxmlparser.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.svg.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itextsharp.dll
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\BouncyCastle.Crypto.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.pdb
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.Core.pdb
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Common.Logging.Core.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\Dapper.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.barcodes.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.forms.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.io.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.kernel.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.layout.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.pdfa.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.sign.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.styledxmlparser.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itext.svg.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\bin\Debug\itextsharp.xml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csprojAssemblyReference.cache
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaCamin.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareCamera.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareStudent.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaStudentLaCamera.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camere.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camine.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\MainWindow.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Home.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamera.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamin.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaStudent.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Studenti.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\StudentiiUneiCamere.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\TaxeStudent.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\App.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin_MarkupCompile.cache
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin_MarkupCompile.lref
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaCamin.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareCamera.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugareStudent.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\AdaugaStudentLaCamera.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camere.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Camine.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\MainWindow.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Home.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamera.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaCamin.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\ModificaStudent.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\Studenti.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\StudentiiUneiCamere.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\Views\TaxeStudent.baml
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.g.resources
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.Properties.Resources.resources
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csproj.GenerateResource.cache
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csproj.CoreCompileInputs.cache
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.csproj.CopyComplete
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.exe
+E:\Facultate\mvp\Camin\AplicatieCamin\AplicatieCamin\obj\Debug\AplicatieCamin.pdb
